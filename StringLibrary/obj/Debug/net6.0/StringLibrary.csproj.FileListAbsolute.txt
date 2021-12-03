@@ -1,0 +1,12 @@
+D:\css\project\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\css\project\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\css\project\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\ref\StringLibrary.dll
+D:\css\project\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
+D:\css\project\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
