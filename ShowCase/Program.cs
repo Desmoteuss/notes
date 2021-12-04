@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("asda");
+        string x= "lol";
+
+        Console.WriteLine("asda "+ x);
+        Console.WriteLine(x.ToUpper()+"lll") ;
 
         Console.ReadLine();
     }
